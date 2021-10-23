@@ -1,0 +1,10 @@
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+D:\KULIAH\SEMESTER 3\Pemrograman Lanjut\Project\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
